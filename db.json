@@ -26,6 +26,141 @@
        "Bottle":"Talisker 30","Price":"187.875","Rating":"88.16666666666667","Region":"Island"
     },
     {
+       "Bottle":"Talisker 57° North","Price":"65.77857142857142","Rating":"87.4074074074074","Region":"Island "
+    },
+    {
+       "Bottle":"Talisker Distiller's Edition","Price":"76.0","Rating":"88.41666666666667","Region":"Island "
+    },
+    {
+       "Bottle":"Talisker Distiller's Edition 2000","Price":"77.5","Rating":"87.25","Region":"Island "
+    },
+    {
+       "Bottle":"Talisker Distiller's Edition 2012","Price":"77.42857142857143","Rating":"89.4","Region":"Island "
+    },
+    {
+       "Bottle":"Talisker Distiller's Edition 2013","Price":"36.2375","Rating":"89.14285714285714","Region":"Island"
+    },
+    {
+       "Bottle":"Talisker Port Ruighe","Price":"44.93333333333334","Rating":"85.44444444444444","Region":"Island "
+    },
+    {
+       "Bottle":"Talisker Storm","Price":"45.125","Rating":"83.5","Region":"Island"
+    },
+    {
+       "Bottle":"Tamdhu 8 Signatory 2005","Price":"59.285714285714285","Rating":"90.9","Region":"Speyside"
+    },
+    {
+       "Bottle":"Té Bheag","Price":"10.913333333333334","Rating":"82.9","Region":"Blend"
+    },
+    {
+       "Bottle":"Teacher's Highland Cream","Price":"19.055","Rating":"72.33333333333333","Region":"Blend"
+    },
+    {
+       "Bottle":"Teeling Small Batch","Price":"18.926","Rating":"85.0","Region":"Irish"
+    },
+    {
+       "Bottle":"Templeton Rye","Price":"39.0","Rating":"65.16666666666667","Region":"Rye"
+    },
+    {
+       "Bottle":"Thomas H. Handy","Price":"79.1222222222222","Rating":"93.3076923076923","Region":"Rye"
+    },
+    {
+       "Bottle":"Thomas H. Handy 2013","Price":"73.33333333333333","Rating":"90.3","Region":"Rye"
+    },
+    {
+       "Bottle":"Tobermory 10","Price":"29.960625","Rating":"82.8","Region":"Island "
+    },
+    {
+       "Bottle":"Tobermory 15","Price":"116.0875","Rating":"88.29411764705883","Region":"Island "
+    },
+    {
+       "Bottle":"Tomatin 12","Price":"28.092352941176472","Rating":"74.81481481481481","Region":"Highland "
+    },
+    {
+       "Bottle":"Tomatin 15","Price":"53.75","Rating":"79.58333333333333","Region":"Highland "
+    },
+    {
+       "Bottle":"Tomatin 18","Price":"36.16142857142857","Rating":"84.70588235294117","Region":"Highland "
+    },
+    {
+       "Bottle":"Tomatin Decades","Price":"95.0","Rating":"86.5","Region":"Highland "
+    },
+    {
+       "Bottle":"Tomintoul 10","Price":"17.725","Rating":"74.875","Region":"Speyside"
+    },
+    {
+       "Bottle":"Tomintoul 14","Price":"","Rating":"81.16666666666667","Region":"Speyside"
+    },
+    {
+       "Bottle":"Tomintoul 16","Price":"42.17333333333333","Rating":"79.3","Region":"Speyside"
+    },
+    {
+       "Bottle":"Tomintoul Peaty Tang","Price":"45.0","Rating":"76.42857142857143","Region":"Speyside"
+    },
+    {
+       "Bottle":"Tyrconnell Irish Single Malt","Price":"19.225","Rating":"72.66666666666667","Region":"Irish"
+    },
+    {
+       "Bottle":"Van Winkle Family Reserve Rye 13 Years Old","Price":"77.33333333333333","Rating":"88.83333333333333","Region":"Rye"
+    },
+    {
+       "Bottle":"Van Winkle Special Reserve 12 Year Lot B","Price":"56.82","Rating":"88.0","Region":"Bourbon"
+    },
+    {
+       "Bottle":"Very Old Barton Bottled In Bond","Price":"16.428571428571427","Rating":"84.14285714285714","Region":"Bourbon"
+    },
+    {
+       "Bottle":"W.L. Weller 12","Price":"26.328378378378382","Rating":"88.14","Region":"Bourbon"
+    },
+    {
+       "Bottle":"W.L. Weller Special Reserve","Price":"16.535","Rating":"80.30434782608695","Region":"Bourbon"
+    },
+    {
+       "Bottle":"Whistle Pig 10 Straight Rye","Price":"66.375","Rating":"88.1","Region":"Rye"
+    },
+    {
+       "Bottle":"Whistle Pig Boss Hog","Price":"150.0","Rating":"90.625","Region":"Rye"
+    },
+    {
+       "Bottle":"White Oak Akashi 14","Price":"167.5","Rating":"93.5","Region":"Japan"
+    },
+    {
+       "Bottle":"Wild Turkey 101","Price":"19.822307692307692","Rating":"85.75510204081633","Region":"Bourbon"
+    },
+    {
+       "Bottle":"Wild Turkey 101 Rye","Price":"32.7","Rating":"84.92857142857143","Region":"Rye"
+    },
+    {
+       "Bottle":"Wild Turkey 81","Price":"11.153333333333334","Rating":"76.85714285714286","Region":"Bourbon"
+    },
+    {
+       "Bottle":"Wild Turkey Forgiven","Price":"49.166666666666664","Rating":"80.16666666666667","Region":"American "
+    },
+    {
+       "Bottle":"Wild Turkey Rare Breed","Price":"31.128","Rating":"88.17241379310344","Region":"Bourbon"
+    },
+    {
+       "Bottle":"Willett 4 Year Rye","Price":"38.52222222222222","Rating":"89.16666666666667","Region":"Rye"
+    },
+    {
+       "Bottle":"Willett Family Estate 2 Year Small Batch Rye","Price":"39.8","Rating":"84.0","Region":"Rye"
+    },
+    {
+       "Bottle":"William Larue Weller","Price":"80.71428571428571","Rating":"95.5","Region":"Bourbon"
+    },
+    {
+       "Bottle":"Wiser's Legacy","Price":"29.606","Rating":"86.5","Region":"Canada"
+    },
+    {
+       "Bottle":"Woodford Reserve","Price":"31.5","Rating":"78.16666666666667","Region":"Bourbon"
+    },
+    {
+       "Bottle":"Woodford Reserve Distiller's Select","Price":"27.15466666666667","Rating":"80.93333333333334","Region":"Bourbon"
+    },
+    {
+       "Bottle":"Woodford Reserve Double Oaked","Price":"37.435","Rating":"80.55555555555556","Region":"Bourbon"
+    },
+    {
        "Bottle":"Yamazaki 12","Price":"56.98823529411764","Rating":"81.33333333333333","Region":"Japan"
     },
     {
