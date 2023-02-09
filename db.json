@@ -2,16 +2,28 @@
   "whiskies":
   [
     {
-       "Bottle":"Kirkland Signature 20 Speyside Sherry Cask Finish","Price":"45.0","Rating":"78.85714285714286","Region":"Speyside"
+       "Bottle":"Aberlour 18","Price":"86.25","Rating":"87.46666666666667","Region":"Speyside"
+    },
+    {
+       "Bottle":"Bowmore 18","Price":"46.778","Rating":"82.22222222222223","Region":"Islay"
+    },
+    {
+       "Bottle":"Glenfiddich 21 Gran Reserva","Price":"151.684","Rating":"83.63636363636364","Region":"Speyside"
     },
     {
        "Bottle":"Lagavulin 1995 Distillers Edition","Price":"101.085","Rating":"88.9090909090909","Region":"Islay"
     },
     {
-       "Bottle":"Laphroaig 10","Price":"41.28949367088607","Rating":"85.35779816513761","Region":"Islay"
+       "Bottle":"Lagavulin 1997 Distillers Edition","Price":"114.5","Rating":"90.33333333333333","Region":"Islay"
     },
     {
-       "Bottle":"Laphroaig 10 Cask Strength","Price":"56.779999999999994","Rating":"91.27272727272727","Region":"Islay"
+       "Bottle":"Yamazaki 12","Price":"56.98823529411764","Rating":"81.33333333333333","Region":"Japan"
+    },
+    {
+       "Bottle":"Yamazaki 18","Price":"30103.6","Rating":"87.57142857142857","Region":"Japan"
+    },
+    {
+       "Bottle":"Yoichi 26 SMWS 116.20","Price":"","Rating":"88.42857142857143","Region":"Japan"
     }
   ]
   }
