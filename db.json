@@ -5,73 +5,13 @@
        "Bottle":"Kirkland Signature 20 Speyside Sherry Cask Finish","Price":"45.0","Rating":"78.85714285714286","Region":"Speyside"
     },
     {
-       "Bottle":"Knob Creek 9 Small Batch","Price":"28.42","Rating":"83.3","Region":"Bourbon"
-    },
-    {
-       "Bottle":"Knob Creek Rye","Price":"28.01","Rating":"81.26666666666667","Region":"Rye"
-    },
-    {
-       "Bottle":"Knob Creek Single Barrel","Price":"9.366","Rating":"85.33333333333333","Region":"Bourbon"
-    },
-    {
-       "Bottle":"Knob Creek Single Barrel Reserve","Price":"34.127272727272725","Rating":"84.28571428571429","Region":"Bourbon"
-    },
-    {
-       "Bottle":"Lagavulin 12","Price":"88.59862068965518","Rating":"91.13333333333334","Region":"Islay"
-    },
-    {
-       "Bottle":"Lagavulin 16","Price":"70.51085106382979","Rating":"88.56818181818181","Region":"Islay"
-    },
-    {
        "Bottle":"Lagavulin 1995 Distillers Edition","Price":"101.085","Rating":"88.9090909090909","Region":"Islay"
-    },
-    {
-       "Bottle":"Lagavulin 1997 Distillers Edition","Price":"114.5","Rating":"90.33333333333333","Region":"Islay"
     },
     {
        "Bottle":"Laphroaig 10","Price":"41.28949367088607","Rating":"85.35779816513761","Region":"Islay"
     },
     {
        "Bottle":"Laphroaig 10 Cask Strength","Price":"56.779999999999994","Rating":"91.27272727272727","Region":"Islay"
-    },
-    {
-       "Bottle":"Laphroaig 15","Price":"77.75","Rating":"89.4","Region":"Islay"
-    },
-    {
-       "Bottle":"Laphroaig 17 SMWS 29.157","Price":"100.0","Rating":"85.875","Region":"Islay"
-    },
-    {
-       "Bottle":"Laphroaig 18","Price":"77.50487804878048","Rating":"89.91428571428571","Region":"Islay"
-    },
-    {
-       "Bottle":"Laphroaig 25 Cask Strength 2008","Price":"350.0","Rating":"92.7","Region":"Islay"
-    },
-    {
-       "Bottle":"Laphroaig An Cuan Mor","Price":"68.5","Rating":"87.14285714285714","Region":"Islay"
-    },
-    {
-       "Bottle":"Laphroaig Cairdeas 2011 Ileach","Price":"60.0","Rating":"89.16666666666667","Region":"Islay"
-    },
-    {
-       "Bottle":"Laphroaig Cairdeas 2012 Origin","Price":"78.66666666666667","Rating":"89.52380952380952","Region":"Islay"
-    },
-    {
-       "Bottle":"Laphroaig Cairdeas 2013 Portwood","Price":"73.064","Rating":"92.94871794871794","Region":"Islay"
-    },
-    {
-       "Bottle":"Laphroaig Cairdeas 2014 Amontillado","Price":"77.5","Rating":"87.13333333333334","Region":"Islay"
-    },
-    {
-       "Bottle":"Laphroaig Cairdeas 2015","Price":"28.916666666666668","Rating":"88.16666666666667","Region":"Islay"
-    },
-    {
-       "Bottle":"Laphroaig PX Cask","Price":"66.97777777777777","Rating":"88.68181818181819","Region":"Islay"
-    },
-    {
-       "Bottle":"Laphroaig Quarter Cask","Price":"46.97563829787235","Rating":"89.78512396694215","Region":"Islay"
-    },
-    {
-       "Bottle":"Laphroaig Triplewood","Price":"64.66666666666667","Rating":"86.14285714285714","Region":"Islay"
     }
   ]
   }
