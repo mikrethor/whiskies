@@ -17,6 +17,15 @@
        "Bottle":"Lagavulin 1997 Distillers Edition","Price":"114.5","Rating":"90.33333333333333","Region":"Islay"
     },
     {
+       "Bottle":"Laphroaig 25 Cask Strength 2008","Price":"350.0","Rating":"92.7","Region":"Islay"
+    },
+    {
+       "Bottle":"Springbank 21","Price":"450.0","Rating":"91.875","Region":"Campbeltown"
+    },
+    {
+       "Bottle":"Talisker 30","Price":"187.875","Rating":"88.16666666666667","Region":"Island"
+    },
+    {
        "Bottle":"Yamazaki 12","Price":"56.98823529411764","Rating":"81.33333333333333","Region":"Japan"
     },
     {
